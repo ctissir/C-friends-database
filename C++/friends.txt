@@ -1,0 +1,17 @@
+Jeremy McLellan 19 1.63 57.6 B
+Stephen Fry 22 1.7 54.7 B
+Phoebe Waller-Bridge 18 1.78 49.4 A
+Rowan Atkinson 20 1.73 58.1 B
+Sean Lock 19 1.88 60.3 C
+Sindhu Vee 21 1.6 54.4 B
+Diane Morgan 18 1.64 49.4 A
+Trevor Noah 17 1.75 54.4 C
+Hugh Laurie 19 1.6 56.2 B
+Robin Williams 17 1.7 53.2 A
+Steve Carell 20 1.7 57 C
+Jon Stewart 18 1.8 60.3 B
+Tina Fey 18 1.68 52.6 B
+John Oliver 21 1.7 64.2 B
+Maz Jobrani 19 1.65 54 A
+Stephen Fry 22 1.7 54.7 B
+MJ Sh 20 1.7 50 B
